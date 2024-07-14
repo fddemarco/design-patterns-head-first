@@ -52,7 +52,7 @@ class Decaf(Beverage):
         ...
 
 
-class Esperesso(Beverage):
+class Espresso(Beverage):
     def cost(self):
         ...
 
